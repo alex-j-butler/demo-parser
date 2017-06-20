@@ -1,0 +1,19 @@
+{
+  "name": "demo-parser",
+  "version": "1.0.0",
+  "description": "TF2 demo parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Qixalite/demo-parser"
+  },
+  "author": "Alex Butler <a.jbutler019@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.7.0",
+    "tf2-demo": "^1.1.3"
+  }
+}
