@@ -1,0 +1,4 @@
+node_modules
+
+# Ignore demo files.
+*.dem
